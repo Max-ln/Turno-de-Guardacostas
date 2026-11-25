@@ -51,8 +51,8 @@ Este diagrama modela la estructura estática del código y cómo se materializan
 
 ## Archivos de esta carpeta
 
-| Diagrama | Documento | Imagen | Fuente |
-|---|---|---|---|
-| Casos de uso | [casos-de-uso.md](casos-de-uso.md) | [PNG](casos-de-uso.png) | [.mmd](fuentes/casos-de-uso.mmd) |
-| Clases | [diagrama-de-clases.md](diagrama-de-clases.md) | [PNG](diagrama-de-clases.png) | [.mmd](fuentes/diagrama-de-clases.mmd) |
-| Secuencia (escenario principal) | [diagrama-de-secuencia.md](diagrama-de-secuencia.md) | [PNG](diagrama-de-secuencia.png) | [.mmd](fuentes/diagrama-de-secuencia.mmd) |
+| Diagrama | Documento |
+|---|---|
+| Casos de uso | [casos-de-uso.md](casos-de-uso.md) |
+| Clases | [diagrama-de-clases.md](diagrama-de-clases.md) |
+| Secuencia (escenario principal) | [diagrama-de-secuencia.md](diagrama-de-secuencia.md) |
