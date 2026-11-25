@@ -21,7 +21,7 @@ Este repositorio contiene las primeras fases del ciclo de vida del proyecto.
 turno-de-guardacostas/
 ├── README.md
 ├── 1-requerimientos/   SRS.md (análisis de requerimientos) e investigación de la plantilla
-├── 2-uml/              Casos de uso, clases y secuencia (Mermaid + PNG)
+├── 2-uml/              Casos de uso, clases y secuencia (Mermaid)
 └── 3-pantallas/        7 pantallas en PNG y enlace al diseño
 ```
 
