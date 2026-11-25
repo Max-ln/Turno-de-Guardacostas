@@ -2,8 +2,6 @@
 
 Muestra qué puede hacer el jugador con el sistema. Los casos de uso salen de los requerimientos funcionales de `../1-requerimientos/SRS.md`.
 
-![Diagrama](casos-de-uso.png)
-
 ```mermaid
 flowchart LR
     J([Jugador])
